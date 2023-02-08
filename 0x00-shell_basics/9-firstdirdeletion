@@ -1,1 +1,2 @@
+#!/bin/bash
 mvdir /tmp/my_first_directory
