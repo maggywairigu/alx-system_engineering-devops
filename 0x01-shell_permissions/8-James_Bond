@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod oo7 home
+sudo chmod ug-rwx,o+rwx home
