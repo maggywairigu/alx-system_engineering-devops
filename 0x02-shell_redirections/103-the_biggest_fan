@@ -1,4 +1,4 @@
 #!/bin/bash
-awk -F '\t' '{counts[$1]++} END {for (host in counts) {print counts[host], host};}' logfile | sort -nr | head -11
+cut -f1 -d$'\t' | sort | uniq -c |tr -s " " | sort -t' ' -k1 -nr | head -11 | cut -d' ' -f3 
 
 
