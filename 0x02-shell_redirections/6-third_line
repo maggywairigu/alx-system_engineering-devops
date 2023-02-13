@@ -1,1 +1,1 @@
-head --line=3 iacta
+head --line=3 iacta | tail --line=1
