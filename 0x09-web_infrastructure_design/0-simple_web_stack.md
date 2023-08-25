@@ -1,5 +1,7 @@
 **Web Infrastructure Design: Single-Server Setup**
 
+![0-simple_web_stack](https://github.com/maggywairigu/alx-system_engineering-devops/assets/68754799/d0ddf622-cfb1-476a-9624-af0cdedd1dec)
+
 **Description**
 
 This Markdown document outlines the design of a basic web infrastructure to host a website accessible via www.foobar.com. It breaks down the components, their roles, interactions, and discusses potential issues with the setup.
