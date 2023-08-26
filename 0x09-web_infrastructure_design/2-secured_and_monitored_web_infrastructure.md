@@ -1,5 +1,8 @@
 **Secured and Monitored Three-Server Web Infrastructure Design**
 
+![2-secured_and_monitored_web_infrastructure](https://github.com/maggywairigu/alx-system_engineering-devops/assets/68754799/7ec1b048-ccd7-4258-ba59-a72cf6609889)
+
+
 In this design, we'll create a secured and monitored web infrastructure that hosts www.foobar.com. The infrastructure ensures security through firewalls, serves encrypted traffic with an SSL certificate, and utilizes monitoring to ensure performance and availability.
 
 **Servers:**
