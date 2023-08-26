@@ -1,5 +1,7 @@
 **Three-Server Web Infrastructure Design**
 
+![1-distributed_web_infrastructure](https://github.com/maggywairigu/alx-system_engineering-devops/assets/68754799/31d3ad53-8dc0-450d-9257-ec7db9b262b4)
+
 In this design, we'll use three servers to host the website www.foobar.com. We'll have a load balancer (HAproxy) to distribute traffic, a pair of application servers for redundancy, and a MySQL database cluster for data storage.
 
 **Servers:**
