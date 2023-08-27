@@ -1,4 +1,6 @@
-**Readme: Application Server vs. Web Server**
+##Readme: Application Server vs. Web Server**
+
+![3-scale_up](https://github.com/maggywairigu/alx-system_engineering-devops/assets/68754799/e8b3cbdd-0ad2-433e-bb96-20c962351ab5)
 
 This document provides an overview of the design and distinctions between an application server and a web server within a web infrastructure. The setup includes a load balancer for distributing traffic, with separate servers for web, application, and database components.
 
